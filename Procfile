@@ -1,1 +1,1 @@
-web: node mysqlTest.js
+web: node index.js

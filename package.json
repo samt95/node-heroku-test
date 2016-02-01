@@ -1,9 +1,9 @@
 
 {
-  "name": "node-mysql",
+  "name": "node-heroku-test",
   "description": "Testing deploying a node app with heroku",
   "repository": "https://github.com/samt95/node-heroku-test",
-  "main": "mysqlTest.js",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.10.6",
     "mysql": "^2.5.4"
